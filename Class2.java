@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Suneet Sharma
  */
 
 public class Class2 {
